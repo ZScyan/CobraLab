@@ -1,2 +1,2 @@
-# Python-Dojo
-Material para los cursos de Python-Dojo
+# Cobra-Lab
+Material para los cursos de Cobra-Lab
